@@ -16,3 +16,5 @@ This dress-making machine concept represents a bold and futuristic integration o
 
 #
 [3D Concept](https://chatgpt.com/g/g-JAsawu1Lv-3d-concept)
+<br>
+[Luxury Product](https://chatgpt.com/g/g-ci3bdeqAj-luxury-product)
